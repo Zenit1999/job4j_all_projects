@@ -1,4 +1,4 @@
-package new_task;
+package newtask;
 
 public class Test {
     public static void main(String[] args) {
